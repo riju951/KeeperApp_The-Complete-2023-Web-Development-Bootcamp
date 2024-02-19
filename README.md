@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Keeper App: Effortless Note Management with React 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Keeper App, a React-powered note management application designed to simplify your note-taking process. With Keeper App, you can effortlessly create, update, and delete notes in a user-friendly interface. It's perfect for anyone looking to organize their thoughts, tasks, and reminders in one convenient location.
 
-## Available Scripts
+![image](https://github.com/riju951/KeeperApp_The-Complete-2023-Web-Development-Bootcamp/assets/82694741/c89bfd16-88b2-48d5-bb40-4a85c6c7d2f9)
 
-In the project directory, you can run:
+![image](https://github.com/riju951/KeeperApp_The-Complete-2023-Web-Development-Bootcamp/assets/82694741/4a95f4e3-f808-47f0-b190-04807bb47f5c)
+
+##  About Keeper App
+
+Keeper App leverages the power of React to offer a dynamic and interactive note management experience. It provides a clean and intuitive interface, making note management an effortless task. Whether you're jotting down a quick reminder or organizing your thoughts for a project, Keeper App has you covered.
+
+##  Key Features
+
+- **Note Organization:** Effortlessly categorize, prioritize, and manage your notes.
+- **Editable & Deletable:** Update or remove your notes with just a few clicks.
+- **Real-time Weather Updates:** Stay informed with the current weather displayed on the top left corner under the app title, updated on each reload.
+- **Responsive Design:** Enjoy a seamless experience across all your devices, thanks to our responsive design.
+
+##  Tech Stack
+
+- **Frontend:** Built with React for a fast and responsive user interface.
+- **Styling:** Styled using HTML and CSS
+- **Weather Data:** Integrates with an Open Source Weather API to provide real-time weather updates.
+
+##  Try Keeper App
+
+Experience the simplicity of managing your notes with Keeper App. Check it out [here](https://keeper-app-the-complete-2023-web-development-bootcamp.vercel.app/) and take the first step towards organized note-taking.
+
+##  Feedback
+
+Your feedback is invaluable to us as we strive to improve and enhance the Keeper App experience. Try it out and let us know your thoughts! Whether it's a feature request, bug report, or general feedback, we're all ears.
+
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
