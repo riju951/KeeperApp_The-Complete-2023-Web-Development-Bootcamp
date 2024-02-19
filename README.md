@@ -16,7 +16,7 @@ Keeper App leverages the power of React to offer a dynamic and interactive note 
 ##  Tech Stack
 
 - **Frontend:** Built with React for a fast and responsive user interface.
-- **Styling:** Styled using HTML, CSS, and Material UI for a visually appealing and intuitive design.
+- **Styling:** Styled using HTML and CSS
 - **Weather Data:** Integrates with an Open Source Weather API to provide real-time weather updates.
 
 ##  Try Keeper App
