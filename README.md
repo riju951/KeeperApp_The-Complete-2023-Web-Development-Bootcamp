@@ -2,6 +2,10 @@
 
 Welcome to Keeper App, a React-powered note management application designed to simplify your note-taking process. With Keeper App, you can effortlessly create, update, and delete notes in a user-friendly interface. It's perfect for anyone looking to organize their thoughts, tasks, and reminders in one convenient location.
 
+![image](https://github.com/riju951/KeeperApp_The-Complete-2023-Web-Development-Bootcamp/assets/82694741/c89bfd16-88b2-48d5-bb40-4a85c6c7d2f9)
+
+![image](https://github.com/riju951/KeeperApp_The-Complete-2023-Web-Development-Bootcamp/assets/82694741/4a95f4e3-f808-47f0-b190-04807bb47f5c)
+
 ##  About Keeper App
 
 Keeper App leverages the power of React to offer a dynamic and interactive note management experience. It provides a clean and intuitive interface, making note management an effortless task. Whether you're jotting down a quick reminder or organizing your thoughts for a project, Keeper App has you covered.
